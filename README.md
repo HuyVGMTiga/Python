@@ -33,4 +33,3 @@ plt.show()
 ```
 ### Result
 
-![alt text](image.png)
